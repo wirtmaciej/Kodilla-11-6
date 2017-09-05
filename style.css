@@ -1,0 +1,21 @@
+.board {
+	margin: 20px;
+	text-align: center;
+}
+
+.column {
+	border: blue solid 2px;
+	border-bottom: none;
+	border-top: none;
+	height: 50vh;
+	margin: 20px 2px;
+	padding: 2px;
+	float: left;
+	text-align: center;
+}	
+
+.column-card-list {
+	min-height: 50px;
+	width: 10vw;
+}
+
